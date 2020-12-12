@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <data>
+      <name>Chinese</name>
+      <recipes>
+          <id>11</id>
+          <name>Sweet And Sour Pork</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/aa2dffba333842628649b06c0aad70db/CUT2.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a bowl, combine all marinade ingredients with the pork. Cover and leave to marinade in the fridge 20 minutes.</steps>
+          <steps>Place the corn flour in a large bowl and toss the marinated pork chunks until liberally coated.</steps>
+          <steps>In a medium-sized saucepan, heat the oil to 350˚F (180°C).</steps>
+          <steps>Deep fry the pork pieces for about 3-4 minutes until the coating is golden brown and the pork is cooked throughout. Set aside.</steps>
+          <steps>For the sauce, place a frying pan over a medium heat and add the oil.</steps>
+          <steps>Sauté the garlic until fragrant, then fry the peppers until soften.</steps>
+          <steps>Add in the pineapple and warm thorough.</steps>
+          <steps>Add the sugar, vinegar, and ketchup, stir. Bring the mixture to a boil.</steps>
+          <steps>Add the pork to the frying pan and coat everything evenly with the sauce.</steps>
+          <steps>Serve top with sesame seeds.</steps>
+      </recipes>
+      <recipes>
+          <id>12</id>
+          <name>General Tso’s Chicken</name>
+          <imageUrl>https://img.buzzfeed.com/video-api-prod/assets/e2eee87fc26141c09d07ca7c57edcdb3/BFV11676_EasyGeneralTsosChicken-ThumbTextless1080.jpg</imageUrl>
+          <ingredients>8 cups vegetable oil (2 L), for frying</ingredients>
+          <ingredients>1 cup rice wine (240 mL)</ingredients>
+          <ingredients>¼ cup soy sauce (60 mL)</ingredients>
+          <ingredients>1 lb boneless, skinless chicken thighs (455 g), cubed</ingredients>
+          <ingredients>1 cup flour (125 g)</ingredients>
+          <ingredients>1 tablespoon salt</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>Japanese</name>
+      <recipes>
+          <id>21</id>
+          <name>Crunchy California Roll Sushi Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/195524.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+      <recipes>
+          <id>22</id>
+          <name>Chicken Teriyaki Fried Rice</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/19983b4a5a7643e4be6471e8012b18ca/BFV24904_FriedRice4Ways_FB1080SQ.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+      <recipes>
+          <id>23</id>
+          <name>Kakiage Tempura Don</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/149233.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+      <recipes>
+          <id>24</id>
+          <name>Tempura Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/video-api-prod/assets/aada6f0780f9460b91b704a84563fd84/BFV11753_TempuraBowl-ThumbTextless1080.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>Italian</name>
+      <recipes>
+          <id>31</id>
+          <name>Crunchy California Roll Sushi Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/195524.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>French</name>
+      <recipes>
+          <id>24</id>
+          <name>Tempura Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/video-api-prod/assets/aada6f0780f9460b91b704a84563fd84/BFV11753_TempuraBowl-ThumbTextless1080.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>Korean</name>
+      <recipes>
+          <id>51</id>
+          <name>Crunchy California Roll Sushi Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/195524.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>British</name>
+      <recipes>
+          <id>24</id>
+          <name>Tempura Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/video-api-prod/assets/aada6f0780f9460b91b704a84563fd84/BFV11753_TempuraBowl-ThumbTextless1080.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>Arabian</name>
+      <recipes>
+          <id>71</id>
+          <name>Crunchy California Roll Sushi Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/195524.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>Vietnamese</name>
+      <recipes>
+          <id>81</id>
+          <name>Crunchy California Roll Sushi Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/195524.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+  <data>
+      <name>Korean</name>
+      <recipes>
+          <id>24</id>
+          <name>Tempura Bowl</name>
+          <imageUrl>https://img.buzzfeed.com/video-api-prod/assets/aada6f0780f9460b91b704a84563fd84/BFV11753_TempuraBowl-ThumbTextless1080.jpg</imageUrl>
+          <ingredients>salt, 1 teaspoon</ingredients>
+          <ingredients>corn flour, 1 teaspoon</ingredients>
+          <ingredients>egg, 1</ingredients>
+          <steps>In a large bowl, combine 1 cup rice wine (240 ml), ¼ cup (60 ml) of soy sauce, and cubed chicken thighs. Stir and cover with plastic wrap. Refrigerate for at least 30 minutes or up to an hour.</steps>
+          <steps>In a separate large bowl, combine 1 cup of flour (125 g) and 1 tablespoon of salt.</steps>
+          <steps>Remove chicken from wine/soy marinade and place in flour mixture. Mix thoroughly, until all the chicken pieces are coated.</steps>
+          <steps>Fill a dutch oven or large pot at least 2 inches (5 cm) deep with vegetable oil. Heat oil to 365˚F (185˚C). Place chicken pieces in frying oil, stirring occasionally. Fry until they are golden brown, roughly 4-5 minutes. Remove chicken from oil and set aside to drain on paper towels or a wire rack.</steps>
+          <steps>In a large skillet, bring one tablespoon of vegetable oil to medium-high heat. Add garlic and ginger, stirring frequently for one minute.</steps>
+          <steps>Add dried chili pods. Continue stirring for 30 seconds before adding rice wine, soy sauce, rice wine vinegar, and sugar. Stir occasionally until mixture is bubbling.</steps>
+      </recipes>
+  </data>
+</root>
