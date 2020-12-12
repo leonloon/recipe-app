@@ -34,10 +34,6 @@
 		E4F745042583A78F00FE4850 /* StepsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F745032583A78F00FE4850 /* StepsCell.swift */; };
 		E4F745072583A79900FE4850 /* IngredientsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F745062583A79900FE4850 /* IngredientsCell.swift */; };
 		E4F7450A2583C51C00FE4850 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F745092583C51C00FE4850 /* Helper.swift */; };
-		E4F745102583C66B00FE4850 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F7450C2583C66B00FE4850 /* Poppins-Bold.ttf */; };
-		E4F745112583C66B00FE4850 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F7450D2583C66B00FE4850 /* Poppins-Medium.ttf */; };
-		E4F745122583C66B00FE4850 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F7450E2583C66B00FE4850 /* Poppins-SemiBold.ttf */; };
-		E4F745132583C66B00FE4850 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F7450F2583C66B00FE4850 /* Poppins-Regular.ttf */; };
 		E4F745222583FD9300FE4850 /* AddRecipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F745212583FD9300FE4850 /* AddRecipeVC.swift */; };
 		E4F745262584972E00FE4850 /* TopRecipeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F745252584972E00FE4850 /* TopRecipeVC.swift */; };
 		E4F7452A2584978800FE4850 /* TopRecipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F745292584978800FE4850 /* TopRecipe.swift */; };
@@ -48,6 +44,10 @@
 		E4F7454A2584A60100FE4850 /* UserVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F745492584A60100FE4850 /* UserVC.swift */; };
 		E4F7454E2584A8DF00FE4850 /* UserSingleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F7454D2584A8DF00FE4850 /* UserSingleton.swift */; };
 		E4F7455D2584AF1300FE4850 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F7455C2584AF1300FE4850 /* Constant.swift */; };
+		E4F745792584BA8200FE4850 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F745752584BA8200FE4850 /* Poppins-SemiBold.ttf */; };
+		E4F7457A2584BA8200FE4850 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F745762584BA8200FE4850 /* Poppins-Medium.ttf */; };
+		E4F7457B2584BA8200FE4850 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F745772584BA8200FE4850 /* Poppins-Bold.ttf */; };
+		E4F7457C2584BA8200FE4850 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4F745782584BA8200FE4850 /* Poppins-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,10 +81,6 @@
 		E4F745032583A78F00FE4850 /* StepsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepsCell.swift; sourceTree = "<group>"; };
 		E4F745062583A79900FE4850 /* IngredientsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientsCell.swift; sourceTree = "<group>"; };
 		E4F745092583C51C00FE4850 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
-		E4F7450C2583C66B00FE4850 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Bold.ttf"; path = "../../../../font/Poppins-Bold.ttf"; sourceTree = "<group>"; };
-		E4F7450D2583C66B00FE4850 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Medium.ttf"; path = "../../../../font/Poppins-Medium.ttf"; sourceTree = "<group>"; };
-		E4F7450E2583C66B00FE4850 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-SemiBold.ttf"; path = "../../../../font/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
-		E4F7450F2583C66B00FE4850 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Regular.ttf"; path = "../../../../font/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		E4F745212583FD9300FE4850 /* AddRecipeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRecipeVC.swift; sourceTree = "<group>"; };
 		E4F745252584972E00FE4850 /* TopRecipeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopRecipeVC.swift; sourceTree = "<group>"; };
 		E4F745292584978800FE4850 /* TopRecipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopRecipe.swift; sourceTree = "<group>"; };
@@ -95,6 +91,10 @@
 		E4F745492584A60100FE4850 /* UserVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserVC.swift; sourceTree = "<group>"; };
 		E4F7454D2584A8DF00FE4850 /* UserSingleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSingleton.swift; sourceTree = "<group>"; };
 		E4F7455C2584AF1300FE4850 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		E4F745752584BA8200FE4850 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-SemiBold.ttf"; path = "../../../../../Downloads/Poppins (2)/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		E4F745762584BA8200FE4850 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Medium.ttf"; path = "../../../../../Downloads/Poppins (2)/Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		E4F745772584BA8200FE4850 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Bold.ttf"; path = "../../../../../Downloads/Poppins (2)/Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		E4F745782584BA8200FE4850 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Regular.ttf"; path = "../../../../../Downloads/Poppins (2)/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		FC5537D962434D4DBCF10FC3 /* Pods-RecipeApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RecipeApp.debug.xcconfig"; path = "Target Support Files/Pods-RecipeApp/Pods-RecipeApp.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -260,10 +260,10 @@
 		E4F744C92582537100FE4850 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				E4F7450C2583C66B00FE4850 /* Poppins-Bold.ttf */,
-				E4F7450D2583C66B00FE4850 /* Poppins-Medium.ttf */,
-				E4F7450F2583C66B00FE4850 /* Poppins-Regular.ttf */,
-				E4F7450E2583C66B00FE4850 /* Poppins-SemiBold.ttf */,
+				E4F745772584BA8200FE4850 /* Poppins-Bold.ttf */,
+				E4F745762584BA8200FE4850 /* Poppins-Medium.ttf */,
+				E4F745782584BA8200FE4850 /* Poppins-Regular.ttf */,
+				E4F745752584BA8200FE4850 /* Poppins-SemiBold.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -381,12 +381,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4F744602581E59300FE4850 /* LaunchScreen.storyboard in Resources */,
+				E4F7457B2584BA8200FE4850 /* Poppins-Bold.ttf in Resources */,
+				E4F7457C2584BA8200FE4850 /* Poppins-Regular.ttf in Resources */,
+				E4F745792584BA8200FE4850 /* Poppins-SemiBold.ttf in Resources */,
 				E4F7447D25821C1600FE4850 /* recipetypes.xml in Resources */,
-				E4F745132583C66B00FE4850 /* Poppins-Regular.ttf in Resources */,
 				E4F7445D2581E59300FE4850 /* Assets.xcassets in Resources */,
-				E4F745122583C66B00FE4850 /* Poppins-SemiBold.ttf in Resources */,
-				E4F745102583C66B00FE4850 /* Poppins-Bold.ttf in Resources */,
-				E4F745112583C66B00FE4850 /* Poppins-Medium.ttf in Resources */,
+				E4F7457A2584BA8200FE4850 /* Poppins-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
